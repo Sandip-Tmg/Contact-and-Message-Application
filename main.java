@@ -49,15 +49,6 @@ public class main {
 		System.out.println("1. Manage Contacts \n2. Messsage \n3. Exit");
 		input=scanner.nextInt();
 		
-		
-			
-		
-		
-		
-		
-	
-		
-
 	}
 	
 
